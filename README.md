@@ -37,7 +37,8 @@ This interactive web-based game allows two players to compete on a 3×3 grid. It
    git clone https://github.com/Ganeshjh2004/tic‑tac‑toe.git
 
 
-   🧩 How to Play
+
+🧩 How to Play
 Start with an empty 3×3 board
 
 Player X goes first, followed by Player O
