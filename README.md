@@ -35,3 +35,32 @@ This interactive web-based game allows two players to compete on a 3×3 grid. It
 1. Clone the repository:
    ```bash
    git clone https://github.com/Ganeshjh2004/tic‑tac‑toe.git
+
+
+   🧩 How to Play
+Start with an empty 3×3 board
+
+Player X goes first, followed by Player O
+
+Alternate turns, placing your symbol in an empty cell by clicking it
+
+After each move, the game checks for a win or draw
+
+Once the game ends, click Restart to play again
+
+⚙️ Technologies Used
+| Technology | Purpose                          |
+| ---------- | -------------------------------- |
+| HTML5      | Game layout and structure        |
+| CSS3       | Styling and responsive design    |
+| JavaScript | Core game logic and interactions |
+
+
+🛠️ Project Structure (Example)
+/tic‑tac‑toe
+├── index.html
+├── styles.css
+├── script.js
+└── README.md
+
+
